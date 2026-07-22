@@ -7,7 +7,7 @@ const resend = resendApiKey ? new Resend(resendApiKey) : null;
 // Must be a domain you've verified in Resend (Domains tab) before this will send to arbitrary
 // recipients. Until then, Resend only allows sending to your own account email — fine for testing.
 const FROM_ADDRESS = process.env.CONTACT_FROM_EMAIL || "Zeal Global Exports <onboarding@resend.dev>";
-const TO_ADDRESS = process.env.CONTACT_TO_EMAIL || "export@zealglobalexports.com";
+const TO_ADDRESS = process.env.CONTACT_TO_EMAIL || "info@zealglobalexports.com";
 
 // Google Apps Script Web App URL — see google-apps-script/Code.gs for setup instructions.
 const SHEET_WEBHOOK_URL = process.env.GOOGLE_SHEET_WEBHOOK_URL;

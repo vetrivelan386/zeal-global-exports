@@ -63,8 +63,8 @@ export default function Footer() {
           <ul className="mt-4 space-y-3 text-sm">
             <li className="flex items-start gap-2.5">
               <Mail size={16} className="mt-0.5 shrink-0 text-emerald-400" />
-              <a href="mailto:export@zealglobalexports.com" className="hover:text-white">
-                export@zealglobalexports.com
+              <a href="mailto:info@zealglobalexports.com" className="hover:text-white">
+                info@zealglobalexports.com
               </a>
             </li>
             <li className="flex items-start gap-2.5">

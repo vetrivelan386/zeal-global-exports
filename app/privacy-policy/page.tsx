@@ -41,8 +41,8 @@ export default function PrivacyPolicyPage() {
           <h2 className="font-display text-lg font-semibold text-navy-900">Contact</h2>
           <p>
             For questions about this policy or to request data deletion, contact us at{" "}
-            <a href="mailto:export@zealglobalexports.com" className="text-emerald-700 hover:underline">
-              export@zealglobalexports.com
+            <a href="mailto:info@zealglobalexports.com" className="text-emerald-700 hover:underline">
+              info@zealglobalexports.com
             </a>
             .
           </p>

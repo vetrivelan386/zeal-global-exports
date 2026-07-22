@@ -208,7 +208,7 @@ export default function ContactForm() {
         </button>
         {status === "error" && (
           <p className="mt-3 text-sm text-red-600">
-            Something went wrong. Please try again or email us directly at export@zealglobalexports.com.
+            Something went wrong. Please try again or email us directly at info@zealglobalexports.com.
           </p>
         )}
       </div>

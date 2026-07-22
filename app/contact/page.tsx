@@ -10,7 +10,7 @@ export const metadata: Metadata = {
 };
 
 const details = [
-  { icon: Mail, label: "Business Email", value: "export@zealglobalexports.com", href: "mailto:export@zealglobalexports.com" },
+  { icon: Mail, label: "Business Email", value: "info@zealglobalexports.com", href: "mailto:info@zealglobalexports.com" },
   { icon: Phone, label: "Phone", value: "+91 93456 24866", href: "tel:+919345624866" },
   { icon: MessageCircle, label: "WhatsApp", value: "+91 93456 24866", href: "https://wa.me/919345624866" },
   { icon: MapPin, label: "Office", value: "319, 12th Street, Sharma Nagar, Vyasarpadi, Chennai - 600039, Tamil Nadu, India" },
