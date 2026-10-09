@@ -1,8 +1,37 @@
 # Zeal Global Exports — B2B Export Company Website
 
-A production-ready Next.js 14 (App Router) + TypeScript + Tailwind CSS website for an Indian
-export company selling Pharmaceuticals, Nutraceuticals, Rice, Coconut Products, Spices, and
-Textiles internationally.
+A business website developed for Zeal Global Exports, an Indian export business serving international markets.
+
+The website presents the company's export product categories, business information, and inquiry options through a responsive web interface.
+
+## Project Overview
+
+**Project type:** Business website  
+**Purpose:** Present export products and connect with potential international buyers  
+**My role:** Website development  
+**Deployment:** Vercel
+
+## Product Categories
+
+- Pharmaceuticals and Nutraceuticals
+- Rice
+- Coconut Products
+- Spices
+- Textiles
+
+## Technologies
+
+- Next.js 14 (App Router)
+- TypeScript
+- Tailwind CSS
+- Framer Motion
+- Lucide React
+
+## Live Website
+
+[Visit Zeal Global Exports](https://zeat-global-exports.vercel.app)
+
+
 
 ## Stack
 
